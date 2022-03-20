@@ -26,7 +26,7 @@ These tools can improve the not only Agriculture Scientists and Farmers but also
 
 ## How we built it🏗️
 
-We mainly used HTML, CSS, JavaScript for executing the website. We used Tidio to implement the online chatbot. Twilio was used to Video Chat and Mobile Support Services. We used Bootstrap and JQuery for themes of the website and UI. We tried to use Google Cloud to host the website.
+We mainly used HTML, CSS, JavaScript for executing the website. We used Twilio to implement the online chatbot. Twilio was used to Video Chat and Mobile Support Services. We used Bootstrap and JQuery for themes of the website and UI. We tried to use Google Cloud to host the website.
 
 ## Challenges we ran into🚧
 
